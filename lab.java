@@ -1,4 +1,4 @@
-package Hospital_Management;
+package hospitalManagement;
 
 import java.util.Scanner;
 

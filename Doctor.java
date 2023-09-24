@@ -1,4 +1,4 @@
-package Hospital_Management;
+package hospitalManagement;
 import java.util.Scanner;
     class Doctortemp{
     String did, dname, specilist, appoint, doc_qual;
